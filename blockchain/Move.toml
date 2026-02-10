@@ -1,0 +1,8 @@
+[package]
+name = "logistics"
+edition = "2024.beta"
+
+[dependencies]
+
+[addresses]
+logistics = "0x0"
