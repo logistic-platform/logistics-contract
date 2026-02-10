@@ -43,3 +43,12 @@ logistics-contract/
     │   └── escrow.move
     └── build/
 ```
+
+## 🔗 Related Repositories
+
+| Repository | Description |
+|---|---|
+| [logistics-be-go](https://github.com/logistic-platform/logistics-be-go) | Backend microservices (Go + gRPC) |
+| [logistics-dashboard-next](https://github.com/logistic-platform/logistics-dashboard-next) | Admin dashboard |
+| [logistics-customer-app](https://github.com/logistic-platform/logistics-customer-app) | Customer mobile app |
+| [logistics-courier-app](https://github.com/logistic-platform/logistics-courier-app) | Courier/driver mobile app |
